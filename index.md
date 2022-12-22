@@ -4,3 +4,4 @@
 #### This is < h4 > Heading.
 ##### This is < h5 > Heading.
 ###### This is < h6 > Heading.
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
